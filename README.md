@@ -1,0 +1,2 @@
+# NextAuth and Duplicate getServerSideProps
+This repo demonstrates a problem with using NextAuth's `unstable_getServerSession` in conjunction with a custom `getServerSideProps` function in a Next.js component.  The issue results in unexpected behavior or errors.  The solution provided eliminates redundancy and ensures proper authentication.
